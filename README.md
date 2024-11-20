@@ -287,6 +287,11 @@ Deal unlocks: 6th November
 
 ## Hardware:
 
+**Covert Instruments** - Lock picking tools, lock bypass tools, and covert entry gear \
+[https://labs.ksec.co.uk/black-friday-sale/  ](https://covertinstruments.com/collections/black-friday-sale)
+Discounts of over 40% on select items, free shipping on US order over $150 + free gift for every order. \
+Deal valid: 18th November - 2nd December
+
 **KSEC Labs** - Hacker Hardware, Red Team Tools & Security Research Devices :see_no_evil: \
 https://labs.ksec.co.uk/black-friday-sale/  
 15% off storewide, free shipping + free gift for every order with code: `BLACKFRIDAY2024` \
